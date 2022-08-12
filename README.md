@@ -12,12 +12,10 @@ As a developer, I enjoy using my obsessive attention to detail, my unequivocal l
 Taking about personal stuff:
 
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning DS on leetcode.
-- 👯 I’m looking to collaborate on projects related to web development.
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about Front end development, Digital Marketing and Data Analytics
 - 📫 Reach me at apoorvatyagi61@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love turkish shows.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=apoorvatyagi61&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
