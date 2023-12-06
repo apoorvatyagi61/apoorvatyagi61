@@ -1,8 +1,4 @@
-### Hi there, I'm Apoorva Tyagi 👋
-
-## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${apoorvatyagi61}.${apoorvatyagi61)
-
-I am a Software developer. I love programming, painting and travelling.
+### Hi there, Glad to see you here! 👋
 
 
 <!--
